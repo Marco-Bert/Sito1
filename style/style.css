@@ -1,17 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Poppins:wght@200;500&family=Raleway:wght@200;500&display=swap');
 
-* {
-    padding: 0;
-    margin: 0;
-    font-family: 'Poppins', sans-serif;
-}
+
 body {
     height: auto;
     width: 100%;
 
     display: flex;
     flex-direction: column;
-    background: black;
+    background: grey;
 }
 .home {
     height: 30px;
@@ -24,6 +20,9 @@ h3 {
     margin-top: 100px;
     margin-bottom: 100px;
     color: white;
+}
+li {
+    color: aliceblue;
 }
 a {
     color: white;
