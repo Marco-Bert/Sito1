@@ -32,3 +32,11 @@ a {
 h1 {
     color: aquamarine;
 }
+table, td, th {
+    border: 1px solid black;
+}
+table {
+    color: white;
+    width: 100%;
+    border-collapse: collapse;
+}
